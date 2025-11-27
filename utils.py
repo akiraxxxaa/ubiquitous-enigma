@@ -1,3 +1,4 @@
+// Updated: 2025-11-27
 """
 Utility functions.
 """
