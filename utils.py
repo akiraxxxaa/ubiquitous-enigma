@@ -1,3 +1,4 @@
+# Refactored: 2025-12-23
 // Updated: 2025-11-27
 """
 Utility functions.
