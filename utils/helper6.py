@@ -1,4 +1,4 @@
-"""Utility functions for repos_hist_ubiquitous-enigma_20250730"""
+"""Utility functions for repos_ubiquitous-enigma"""
 
 import datetime
 from typing import Optional
